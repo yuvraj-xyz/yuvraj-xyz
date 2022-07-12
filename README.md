@@ -1,10 +1,12 @@
 
 # Hello World!👋
-
 ## 🚀 About Me
 <h3 align="left">
 Myself Yuvraj Paliwal, a Competitive Programmer and an Inquistive Coder pursuing Bachelors of Computer Applications from <a href="https://www.uniraj.ac.in/">University of Rajasthan (RU), Jaipur.</a>
 </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvraj-xyz&label=Profile%20views&color=0e75b6&style=flat" alt="yuvraj-xyz" /> </p>
+
+<p align="left"> <a href="https://twitter.com/yuvraj_xyz" target="blank"><img src="https://img.shields.io/twitter/follow/yuvraj_xyz?logo=twitter&style=for-the-badge" alt="yuvraj-xyz" /></a> </p>
 
 <p align="center">
   <img alt="Coding" width="400" src="https://c.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif">
@@ -30,6 +32,9 @@ Myself Yuvraj Paliwal, a Competitive Programmer and an Inquistive Coder pursuing
 
 <a href="https://www.codechef.com/users/code_yuvi" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.rating&url=https://competitive-coding-api.herokuapp.com/api/codechef/code_yuvi&prefix=Rating%20&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=86400" width="250" height="30"/> </a> 
 </p>
+
+## 📈 GitHub Stats
+![yuvi stats](https://github-readme-stats.vercel.app/api?username=yuvraj-xyz&show_icons=true&theme=dracula)
 
 <p align="center">
   <img alt="Coding" width="200" src="https://media3.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif?cid=ecf05e47gvebvew5foijoerex9gejvaoj8556v0uhod44c31&rid=giphy.gif&ct=s">
