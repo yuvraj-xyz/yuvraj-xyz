@@ -1,10 +1,12 @@
 
 # Hello World!👋
-![banner](https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)
 
 ## 🚀 About Me
 
 Myself **Yuvraj Paliwal**, a Competitive Programmer and an Inquistive Coder pursuing Bachelors of Computer Applications from [University of Rajasthan (RU), Jaipur](https://www.uniraj.ac.in/).
+<p align="center">
+  <img alt="Coding" width="400" src="https://c.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif">
+  </p>
 
 ## ⚡Technologies
 
