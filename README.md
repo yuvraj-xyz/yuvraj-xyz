@@ -34,8 +34,6 @@ Myself Yuvraj Paliwal, a Competitive Programmer and an Inquistive Coder pursuing
 </p>
 
 ## 📈 GitHub Stats
-![yuvi stats](https://github-readme-stats.vercel.app/api?username=yuvraj-xyz&show_icons=true&theme=dracula)
-
-<p align="center">
-  <img alt="Coding" width="200" src="https://media3.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif?cid=ecf05e47gvebvew5foijoerex9gejvaoj8556v0uhod44c31&rid=giphy.gif&ct=s">
-  </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvraj-xyz&show_icons=true&locale=en&theme=highcontrast" alt="yuvraj-xyz" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvraj-xyz&&theme=dark&&sideLabels=orange&&dates=white" alt="yuvraj-xyz" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvraj-xyz&show_icons=true&locale=en&layout=compact&theme=dark" alt="yuvraj-xyz" /></p>
