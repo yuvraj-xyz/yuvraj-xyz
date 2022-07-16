@@ -2,7 +2,7 @@
 # Hello World!👋
 ## 🚀 About Me
 <h3 align="left">
-Myself Yuvraj Paliwal, a Competitive Programmer and an Inquistive Coder pursuing Bachelors of Computer Applications from <a href="https://www.uniraj.ac.in/">University of Rajasthan (RU), Jaipur.</a>
+Myself Yuvraj Paliwal, a Competitive Programmer and an Inquisitive Coder pursuing Bachelors of Computer Applications from <a href="https://www.uniraj.ac.in/">University of Rajasthan (RU), Jaipur.</a>
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvraj-xyz&label=Profile%20views&color=0e75b6&style=flat" alt="yuvraj-xyz" /> </p>
 
