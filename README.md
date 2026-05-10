@@ -15,7 +15,6 @@ Built solo with: Next.js · Supabase · Claude API · Redis · Paddle · Vercel
 | [SaaS Research Tool](https://github.com/yuvraj-xyz/saas-research-tool) | Give it a SaaS URL, get a full sales research report |
 | Job-Ready Resume Builder | Upload resume + JD -> AI rewrites it to 95+ ATS score |
 | Upwork Proposal Bot | Monitors Upwork, AI-screens jobs, writes proposals -> Telegram |
-| Instagram Post Automation | AI-powered content creation and posting pipeline |
 
 ## Background
 
