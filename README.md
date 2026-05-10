@@ -6,7 +6,7 @@ I build AI-powered products -- from idea to live SaaS.
 
 **[Acticio](https://acticio.com)** -- AI hiring platform that ranks candidates by what they've actually built (GitHub commits, portfolios, live work) -- not resume keywords.
 
-Built solo with: Next.js · Supabase · Claude API · Redis · Paddle · Vercel
+Built solo with: Claude Code · Next.js · Supabase · Claude API · Redis · Paddle · Vercel
 
 ## Other Projects
 
@@ -14,15 +14,13 @@ Built solo with: Next.js · Supabase · Claude API · Redis · Paddle · Vercel
 |---|---|
 | [SaaS Research Tool](https://github.com/yuvraj-xyz/saas-research-tool) | Give it a SaaS URL, get a full sales research report |
 | Job-Ready Resume Builder | Upload resume + JD -> AI rewrites it to 95+ ATS score |
-| Upwork Proposal Bot | Monitors Upwork, AI-screens jobs, writes proposals -> Telegram |
-| Instagram Post Automation | AI-powered content creation and posting pipeline |
 
 ## Background
 
 - BCA graduate · University of Rajasthan
 - Google Kickstart 2022 -- Rank 6464
 - CodeChef 2* · Codeforces 800
-- Previously: Motion Designer (now building with AI instead)
+- Previously: SaaS Motion Designer (now building with AI instead)
 
 ## Stack I work with
 
