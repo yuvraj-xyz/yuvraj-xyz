@@ -10,8 +10,6 @@ Built solo with: Next.js · Supabase · Claude API · Redis · Paddle · Vercel
 
 **[StorySync](https://github.com/yuvraj-xyz/storysync)** -- After Effects panel that turns any script into a fully-structured project in seconds. Parses 7 script formats, syncs voiceover to natural pauses, imports storyboards including multi-page PDFs, places beat markers on music. Single-file install, MIT licensed.
 
-Featured on [r/AfterEffects](https://www.reddit.com/r/AfterEffects/) (9.2K views) · [Watch the demo](https://youtu.be/u1ncqPEuGug)
-
 ## Other Projects
 
 | Project | What it does |
