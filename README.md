@@ -46,6 +46,7 @@ Built solo with: Next.js · Supabase · Claude API · Redis · Paddle · Vercel
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvraj-pyw)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://x.com/yuvraj_xyz)
 [![Acticio](https://img.shields.io/badge/Acticio-acticio.com-blue?style=flat)](https://acticio.com)
 
 ---
