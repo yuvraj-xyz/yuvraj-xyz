@@ -27,7 +27,8 @@ Built solo with: Next.js · Supabase · Claude API · Redis · Paddle · Vercel
 - Previously: Motion Designer (now building with AI instead)
 
 ## Stack I work with
-
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
