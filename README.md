@@ -8,8 +8,6 @@ I build AI-powered products -- from idea to live SaaS.
 
 Built solo with: Next.js · Supabase · Claude API · Redis · Paddle · Vercel
 
-**[StorySync](https://github.com/yuvraj-xyz/storysync)** -- After Effects panel that turns any script into a fully-structured project in seconds. Parses 7 script formats, syncs voiceover to natural pauses, imports storyboards including multi-page PDFs, places beat markers on music. Single-file install, MIT licensed.
-
 ## Other Projects
 
 | Project | What it does |
